@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   next:
-    specifier: canary
+    specifier: 13.4.11-canary.0
     version: 13.4.11-canary.0(react-dom@18.2.0)(react@18.2.0)
   react:
     specifier: ^18.2.0
